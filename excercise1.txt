@@ -24,10 +24,10 @@
 
 2. Define the variable s as the string s="abcd".
 
-   (a) What is the value of 3*x?
-   (b) What is the valus of x[1]?
-   (c) What is the value of x[-1]?
-   (d) What is the value of x[::2]?
+   (a) What is the value of 3*s?
+   (b) What is the valus of s[1]?
+   (c) What is the value of s[-1]?
+   (d) What is the value of s[::2]?
 
 3. Write a program to find those numbers i=100 that are equal to the sum 
    of their factors.
