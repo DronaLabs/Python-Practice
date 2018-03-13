@@ -1,1 +1,26 @@
-vvbvsvhj,vSKUHjskSUDhCVJzxcSDUWCsdcspoULSYCV,HSCUSDhdHS
+[1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5]
+[1, 2, 3, 4, 5, 11, 12, 13, 14, 15]
+2
+1
+5
+[1, 2, 3, 4, 5]
+[3, 4]
+[2, 4]
+[1, 2]
+[1, 3, 5]
+[1, 2, 3, 8, 5]
+(1, 2, 3, 4, 5)
+abcdabcdabcd
+b
+d
+ac
+The divisors of 100 are:
+1
+2
+4
+5
+10
+20
+25
+50
+100
